@@ -1,7 +1,26 @@
-### Hi there 👋
+# Hi there 👋 Welcome Dohyun's github :)
+- email: dohyunre702@gmail.com
+- Learning web backend
+
+  ![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=judis702)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyunre702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Stack
+---
+- Java
+- MySQL
+- HTML, CSS
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyunre702&layout=compact)
+
+
+### Stats
+---
+![dohyunre702's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyunre702&show_icons=true&theme=aura_dark)
+
+
+
 
 <!--
 **dohyunre702/dohyunre702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
