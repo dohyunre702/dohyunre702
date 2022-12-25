@@ -1,4 +1,5 @@
-# Hi there 👋 Welcome Dohyun's github :)
+# Welcome Dohyun's github :)
+Hi there 👋 
 - email: dohyunre702@gmail.com
 - Learning web backend
 
