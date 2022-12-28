@@ -1,11 +1,11 @@
 # Welcome Dohyun's github :)
 Hi there 👋 
-- email: dohyunre702@gmail.com
-- Learning web backend
+> Shoot for the moon and if you mise, you will still be among the stars.
+> - email: dohyunre702@gmail.com
+> - Learning web backend
 
-  ![Solved.ac
+![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=judis702)
-
 
 ### Stack
 ---
