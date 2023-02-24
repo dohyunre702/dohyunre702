@@ -1,6 +1,6 @@
 # Welcome Dohyun's github :)
 Hi there 👋 
-> Shoot for the moon and if you mise, you will still be among the stars.
+> ^^
 > - email: dohyunre702@gmail.com
 > - Learning web backend
 
