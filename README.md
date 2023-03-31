@@ -25,7 +25,7 @@
 <img src ="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src ="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
 <img src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-<img src = "https://img.shields.io/badge/Spring Rest Docs-6DB33F?style=flat-square&logoColor=white">
+<img src ="https://img.shields.io/badge/Swagger-85Ea2D?style=flat-square&logo=Swagger&logoColor=white">
 </p>
 
 <h4 align="center"> System Languages </h4>
@@ -45,8 +45,10 @@
 <img src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>
 
-<h3 align="center"><b> 🌱Ongoing🌱 </b></h3>
+<h3 align="center"><b> 🌱I have an ongoing interest in..🌱 </b></h3>
 <p align="center">
+<img src ="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+<img src ="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src = "https://img.shields.io/badge/Computer Science-40AEF0?style=flat-square">
 <img src = "https://img.shields.io/badge/Algorithm-ED2761?style=flat-square">
 </p>
