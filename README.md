@@ -1,26 +1,64 @@
-# Welcome Dohyun's github :)
-Hi there 👋 
-> ^^🌼
-> - email: dohyunre702@gmail.com
-> - Learning web backend
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome&desc=Here%20is%20Dohyun's%20Github&descAlignY=80&descAlign=60&height=100&fontColor=00cec8&fontSize=60)
 
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=judis702)
-
-### Stack
----
-- Java
-- MySQL
-- HTML, CSS
+<p align = "center"> 배우고 몰입하고 공유하는 것을 좋아합니다.
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyunre702&layout=compact)
+<a href="dohyunre702@gmail.com"><img src ="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+<a href="https://yozm.wishket.com/magazine/detail/1856/"><img src = "https://img.shields.io/badge/YozmIt-6B16EE?style=flat-square">
+</p>
 
+<br>
+<h2 align="center"><b> Programming Experience </b></h2>
+<p>
+<li> 🏊 la Piscine (42seoul) </li>
+<li> 🦁 멋쟁이 사자처럼 백엔드스쿨 2기 </li>
+<li> 📘 파이썬 코칭스터디 </li>
+</p>
 
-### Stats
----
+<br><br>
+<h2 align="center"><b> Studied Tech Stack </b></h2>
+<h4 align="center"> Languages & Frameworks </h4>
+<p align="center">
+<img src ="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+<img src ="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+<img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src ="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black">
+<img src ="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src ="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+<img src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+<img src = "https://img.shields.io/badge/Spring Rest Docs-6DB33F?style=flat-square&logoColor=white">
+</p>
+
+<h4 align="center"> System Languages </h4>
+<p align="center">
+<img src ="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=LINUX&logoColor=black">
+<img src ="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white">
+</p>
+
+<h4 align="center"> Tools & Communications </h4>
+<p align="center">
+<img src ="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
+<img src ="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+<img src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+<img src ="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
+<img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+<img src ="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+<img src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+</p>
+
+<h3 align="center"><b> 🌱Ongoing🌱 </b></h3>
+<p align="center">
+<img src = "https://img.shields.io/badge/Computer Science-40AEF0?style=flat-square">
+<img src = "https://img.shields.io/badge/Algorithm-ED2761?style=flat-square">
+</p>
+
+<br><br>
+<h2 align="center"><b> Status </b></h2>
+![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=judis702)
+
 ![dohyunre702's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyunre702&show_icons=true&theme=aura_dark)
 
-
+<br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohyunre702%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 
 <!--
