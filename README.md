@@ -9,9 +9,9 @@
 <br>
 <h2 align="center"><b> Programming Experience </b></h2>
 <p>
-<li> 🏊 la Piscine (42seoul) </li>
+<li> 🏊 la Piscine (42Seoul) </li>
 <li> 🦁 멋쟁이 사자처럼 백엔드스쿨 2기 </li>
-<li> 📘 파이썬 코칭스터디 </li>
+<li> 📘 부스트코스 코칭스터디 2기<PY4E> </li>
 </p>
 
 <br><br>
